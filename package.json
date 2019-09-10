@@ -1,0 +1,25 @@
+{
+  "name": "middleware",
+  "version": "1.0.0",
+  "description": "In this Section we'll look at Connect Middleware.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harropm1/Middleware.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harropm1/Middleware/issues"
+  },
+  "homepage": "https://github.com/harropm1/Middleware#readme",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "connect-cookies": "0.0.0",
+    "express-session": "^1.16.2"
+  }
+}
